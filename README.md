@@ -46,3 +46,4 @@ To run the assembler, use the java command followed by the path to the assembly 
 ```bash
 java Main path/to/your/assemblyfile.txt
 ```
+### AND WAIT FOR THE TRANSLATED FILE.HACK
