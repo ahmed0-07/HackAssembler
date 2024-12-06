@@ -23,5 +23,26 @@ First, clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/ahmed0-07/HackAssembler.git
+```
 
+### 2. **Navigate to the project directory:**
 
+```bash
+cd HackAssembler
+```
+
+### 3. **Compile the Java Program**
+
+To compile the Java source file, run the following command in the project directory:
+
+```bash
+javac Main.java
+```
+
+### 4. **Run the Assembler**
+
+To run the assembler, use the java command followed by the path to the assembly file you want to translate. For example:
+
+```bash
+java Main path/to/your/assemblyfile.txt
+```
