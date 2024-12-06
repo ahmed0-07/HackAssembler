@@ -1,5 +1,3 @@
-import javax.swing.*;
-
 public class LabelTable extends Table {
     public LabelTable() {
         super();
